@@ -1,0 +1,7 @@
+nmap
+jq
+coreutils
+ffmpeg
+go
+openssl
+shodan

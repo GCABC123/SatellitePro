@@ -1,0 +1,8 @@
+earthengine-api
+requests
+geopandas
+matplotlib
+pillow
+PyYAML
+numpy
+folium
